@@ -10,7 +10,7 @@ A former lamberjack, Flash animator, and many more. Long was my journey before I
 
 ### <a name="skills">Skills</a>
 
-- **Skills** -
+- **Desc**
 
 ***
 
@@ -23,11 +23,9 @@ Name | Description | Repo | Demo Links | Technologies
 ### <a name="skills">Education</a>
 
 #### Makers Academy (July 2016 to September 2016)
-<desc>
+desc
 
-**Technologies covered**
-<desc>
-
+***
 
 #### University of Finance and Management in Bialystok (September 2008 to July 2012)
 
@@ -43,23 +41,22 @@ Design Patterns in creating Flash Animations
 
 **Amazon UK Ltd.** (September 2012 - currently)    
 *Learning & Development Instructor, Outbound Problem-solver*   
-<desc>
+desc
 
 **S4S Dance Studio** (September 2011 to July 2012)   
 *Assistant Manager & Systems Admin*  
-<desc>
+desc
 
 **Jump App** (September 2010 to January 2011)   
 *Junior Flash Animator*  
-<desc>
+desc
 
 ***
-
 
 ### <a name="contact">Contact</a>
 - Github: [liskowsky](https://github.com/liskowsky)
 - LinkedIn: [karol-lebiedzinski](www.linkedin.com/in/karol-lebiedzinski)
-- Codewars [liskowsky]http://www.codewars.com/users/liskowsky
+- Codewars [liskowsky](http://www.codewars.com/users/liskowsky)
 
 #### Footnotes
 
