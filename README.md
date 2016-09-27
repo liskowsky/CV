@@ -31,8 +31,7 @@ desc
 
 **Bachelor of Applied Science (BASc)**
 Computer Science and Econometrics, grade A
-
-**Title**
+*Thesis Title*
 Design Patterns in creating Flash Animations
 
 ***
