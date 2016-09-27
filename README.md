@@ -22,17 +22,14 @@ Name | Description | Repo | Demo Links | Technologies
 
 ### <a name="skills">Education</a>
 
-#### Makers Academy (July 2016 to September 2016)
-desc
+**Makers Academy** (July 2016 to September 2016)
+*desc*
 
 ***
 
-#### University of Finance and Management in Bialystok (September 2008 to July 2012)
-
-**Bachelor of Applied Science (BASc)**
-Computer Science and Econometrics, grade A
-*Thesis Title*
-Design Patterns in creating Flash Animations
+**University of Finance and Management in Bialystok** (September 2008 to July 2012)
+***Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A***
+Thesis Title: *Design Patterns in creating Flash Animations*
 
 ***
 
