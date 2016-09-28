@@ -24,19 +24,28 @@ Because my goal is to become a Full Stack developer one day, I'm currently looki
 ***
 
 ### <a name="project">Sample Project</a>
-Name | Description | Repo | Demo Links | Technologies
---- | --- | --- | --- | ---
-[Blank Canvas][1] | Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo. | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | [![youtube-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][2] | Ruby on Rails, Javascript, HTML5, CSS3, InteractJS, SVG
+Name | Description | Repo | Demo Link | Technologies | Tests
+--- | --- | --- | --- | --- | ---
+[Blank Canvas][1] | Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo. | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | [![vimeo-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][2] | Ruby on Rails, Javascript, HTML5, CSS3, InteractJS, SVG | RSpec, Capybara
 
 
 ### <a name="skills">Education</a>
 
 **Makers Academy** (July 2016 to September 2016)
-*desc*
+- Focus on Pair Programming, Test Driven Development and Agile methodologies.
+- Full Stack web development
+- Curiosity and passion for clean code
+- Independent learning and problem-solving
+- Working with Git and GitHub
+- Exposure to OOP, SOLID, MVC,
+- Extreme Programming (XP) values.
+
 
 **University of Finance and Management (Poland)** (September 2008 to July 2012)
 *Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A*
-Thesis Title: *Design Patterns in creating Flash Animations*
+- Exposure to Procedural Programming
+- Basics of working with PHP, MySQL and Apache
+- Thesis Title: *Design Patterns in creating Flash Animations*
 
 ***
 
@@ -44,11 +53,11 @@ Thesis Title: *Design Patterns in creating Flash Animations*
 
 **Amazon UK Ltd.** (September 2012 - currently)    
 *Learning & Development Instructor, Outbound Problem-solver*   
-desc
+Training new associates on various tasks in Fulfillment Center, keeping track on a workflow, dealing with shipments issues. In 2014 I was a member of a team that was responsible for startup of two new FC's in Poland, where I've designed and translated tons of materials and trained hundreds of people.
 
 **S4S Dance Studio** (September 2011 to July 2012)   
 *Assistant Manager & Systems Admin*  
-desc
+Creating advertising materials, updating schools database and website, administration duties. 
 
 **Jump App** (September 2010 to January 2011)   
 *Junior Flash Animator*  
