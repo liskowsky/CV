@@ -34,8 +34,8 @@ Name | Description | Repo | Demo Links | Technologies
 **Makers Academy** (July 2016 to September 2016)
 *desc*
 
-**University of Finance and Management in Bialystok** (September 2008 to July 2012)
-***Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A***
+**University of Finance and Management (Poland)** (September 2008 to July 2012)
+*Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A*
 Thesis Title: *Design Patterns in creating Flash Animations*
 
 ***
@@ -52,7 +52,7 @@ desc
 
 **Jump App** (September 2010 to January 2011)   
 *Junior Flash Animator*  
-desc
+Working on storyboards and animating banner campagins using Adobe Photoshop and Flash.
 
 ***
 
