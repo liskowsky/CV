@@ -14,9 +14,11 @@ Because my goal is to become a Full Stack developer one day, I'm currently looki
 
 ### <a name="skills">Skills</a>
 
-- **Diving deep** - I believe That there's always a possibility to expand my knowledge about a process or task that I'm working on. As an Amazons Instructor and a Problem Solver I'm being constantly challanged with lots of different and complexed issues, and that desire to know "everything" helped me resolve them many times.
-- **Shapeless like water** - Every work enviroment is different. There are some standardized rules and procedures ( such as STAR ) but at the end of the day it's all about the people. Having a divert career path has thought me how to deal not only with different job but different kinds of people as well. I presonally think that this ability to quickly adopt is one of my greatest assets.
-- **6th sense** - Can't really explain this one. It just seems that for some reason I can ( for example ) find a root of a bug faster then the others I'm working with.
+- **Diving deep** - I believe That there's always a possibility to expand my knowledge about a process or task that I'm working on. As an Amazons Instructor and a Problem Solver I'm being constantly challenged with lots of different and complex issues, and that desire to know "everything" helped me resolve them many times. - **Stubborn perfectionist** - During my time as an Animator I've learned a valuable lesson that attention to detail is essential of UX. Even half of the pixel can make a huge impact on UX. This is why I'll most likely be "that guy" who points out the missing feature or an edge case :)
+- **Patient navigator** - Team mates and pair partners at Makers Academy describe me as a very patient navigator who knows when to speak and when to step back, which makes working with me much more enjoyable and productive.
+- **Shapeless like water** - Every work environment is different. There are some standardized rules and procedures ( such as STAR ) but at the end of the day it's all about the people. Having a diverse career path has thought me how to deal not only with different job but different kinds of people as well. I personally think that this ability to quickly adopt is one of my greatest assets.
+- **Feedback hunger** - I always encourage people ( even in my private life ) to give me as much feedback as possible. Especially when they notice some areas where I can improve. I simply love constructive criticism.
+- **6th sense** - Can't really explain this one. It just seems that for some reason I can find a root of a bug or a typo faster then the others I'm working with.
 
 ***
 
