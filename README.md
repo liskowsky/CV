@@ -1,8 +1,10 @@
 ## Karol Lebiedzinski
 
-"Not all those who wonder are lost"
-***
 [Skills](#skills) | [Sample project](#project) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
+
+***
+
+***"Not all those who wonder are lost"***
 
 A former lamberjack, Flash animator, and many more. Long was my journey before I got to Makers Academy - highly selective 12 week intensive coding bootcamp - where I discovered my love for web once more. Now ater 15 years since I've created my first Dreamweaver website, I've became a junior web developer, and even now while you're reading this I'm working to improve my craftsmanship.
 
@@ -55,8 +57,6 @@ desc
 - Github: [liskowsky](https://github.com/liskowsky)
 - LinkedIn: [karol-lebiedzinski](www.linkedin.com/in/karol-lebiedzinski)
 - Codewars [liskowsky](http://www.codewars.com/users/liskowsky)
-
-#### Footnotes
 
 [1]: https://github.com/hannako/blank_canvas
 [2]: https://vimeo.com/183908628
