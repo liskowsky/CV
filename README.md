@@ -28,6 +28,7 @@ Name | Description | Repo | Demo Link | Technologies | Tests
 --- | --- | --- | --- | --- | ---
 [Blank Canvas][1] | MA final project, Blank Canvas lets users style a white room schematic with a colour palette generated from a selected photo. | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | [![vimeo-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][2] | Ruby on Rails, Javascript, HTML5, CSS3, InteractJS, SVG | RSpec, Capybara
 
+***
 
 ### <a name="skills">Education</a>
 
