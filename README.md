@@ -26,7 +26,7 @@ Because my goal is to become a Full Stack developer one day, I'm currently looki
 ### <a name="project">Sample Project</a>
 Name | Description | Repo | Demo Link | Technologies | Tests
 --- | --- | --- | --- | --- | ---
-[Blank Canvas][1] | Built with 4 team mates, blank canvas lets users paint a white room schematic with a colour palette generated from a favourite photo. | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | [![vimeo-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][2] | Ruby on Rails, Javascript, HTML5, CSS3, InteractJS, SVG | RSpec, Capybara
+[Blank Canvas][1] | MA final project, Blank Canvas lets users style a white room schematic with a colour palette generated from a selected photo. | [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][1] | [![vimeo-48](https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png)][2] | Ruby on Rails, Javascript, HTML5, CSS3, InteractJS, SVG | RSpec, Capybara
 
 
 ### <a name="skills">Education</a>
@@ -42,9 +42,10 @@ Name | Description | Repo | Demo Link | Technologies | Tests
 
 
 **University of Finance and Management (Poland)** (September 2008 to July 2012)
-*Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A*
+- ***Bachelor of Applied Science (BASc) Computer Science and Econometrics, grade A***
 - Exposure to Procedural Programming
 - Basics of working with PHP, MySQL and Apache
+- Macro and Micro Economics
 - Thesis Title: *Design Patterns in creating Flash Animations*
 
 ***
@@ -57,7 +58,7 @@ Training new associates on various tasks in Fulfillment Center, keeping track on
 
 **S4S Dance Studio** (September 2011 to July 2012)   
 *Assistant Manager & Systems Admin*  
-Creating advertising materials, updating schools database and website, administration duties. 
+Creating advertising materials, updating schools database and website, administration duties.
 
 **Jump App** (September 2010 to January 2011)   
 *Junior Flash Animator*  
