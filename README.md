@@ -6,15 +6,15 @@
 
 ***"Not all those who wonder are lost"***
 
-A former lamberjack, Flash animator, and many more. Long was my journey before I got to Makers Academy - highly selective 12 week intensive coding bootcamp - where I discovered my love for web once more. Now ater 15 years since I've created my first Dreamweaver website, I've became a junior web developer, and even now while you're reading this I'm working to improve my craftsmanship.
+A former lamberjack, Flash animator, and many more. Long was my journey before I got to Makers Academy - a highly selective 12 week intensive coding bootcamp - where I discovered my love for web once more. Now, 15 years after I created my first Dreamweaver website, I've became a junior web developer, and even now while you're reading this I'm working to improve my craftsmanship.
 
-Because my goal is to become a Full Stack developer one day, I'm currently looking for employment opportunities that involves working with any web technology BUT I would also be happy to work on an interesting project as I like to challenge myself and contributing my code to create something new always excites me.
+Because my goal is to become a Full Stack developer, I'm currently looking for employment opportunities that involves working with any web technology BUT I would also be happy to work on an interesting project as I like to challenge myself and contributing my code to create something new always excites me.
 
 ***
 
 ### <a name="skills">Skills</a>
 
-- **Diving deep** - I believe That there's always a possibility to expand my knowledge about a process or task that I'm working on. As an Amazons Instructor and a Problem Solver I'm being constantly challenged with lots of different and complex issues, and that desire to know "everything" helped me resolve them many times.
+- **Diving deep** - I believe that there's always a possibility to expand my knowledge about a process or task that I'm working on. As an Amazon Instructor and a Problem Solver I'm being constantly challenged with lots of different and complex issues, and that desire to know "everything" helped me resolve them many times.
 - **Stubborn perfectionist** - During my time as an Animator I've learned a valuable lesson that attention to detail is essential of UX. Even half of the pixel can make a huge impact on UX. This is why I'll most likely be "that guy" who points out the missing feature or an edge case :)
 - **Patient navigator** - Team mates and pair partners at Makers Academy describe me as a very patient navigator who knows when to speak and when to step back, which makes working with me much more enjoyable and productive.
 - **Shapeless like water** - Every work environment is different. There are some standardized rules and procedures ( such as STAR ) but at the end of the day it's all about the people. Having a diverse career path has thought me how to deal not only with different job but different kinds of people as well. I personally think that this ability to quickly adopt is one of my greatest assets.
